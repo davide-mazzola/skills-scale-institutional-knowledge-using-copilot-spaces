@@ -28,9 +28,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+- User research needs (if applicable):
+- Documentation scope (if applicable):
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Business requirements gathered and validated by Business Analyst
+- [ ] Initial user research scoped with UX Designer (if applicable)
+- [ ] Documentation needs identified with Technical Writer
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton

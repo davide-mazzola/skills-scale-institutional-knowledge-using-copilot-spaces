@@ -14,6 +14,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Small PRs (<= 400 lines when possible)
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
+  - Request UX review for UI changes to ensure design compliance
+  - Update documentation for user-facing changes (coordinate with Technical Writer)
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
@@ -22,6 +24,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- UX validation for interface changes to ensure usability and design compliance
+- Business Analyst validation against business requirements and acceptance criteria
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +42,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Documentation updated in parallel with feature development
+- [ ] UX reviews scheduled for interface changes

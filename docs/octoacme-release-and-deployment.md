@@ -11,6 +11,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 ## Pre-release requirements
 - All acceptance criteria met and PRs merged
 - Passing CI and security scans
+- Business requirements validated by Business Analyst
+- UX validation completed for interface changes
+- Documentation reviewed and published by Technical Writer
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared

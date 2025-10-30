@@ -38,6 +38,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
+- [ ] Business requirements documented by Business Analyst
+- [ ] UX research completed and design specifications created (if applicable)
+- [ ] Documentation plan and timelines defined with Technical Writer
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
